@@ -1,35 +1,33 @@
-[
-	{
-		"domain":"https://github.com/JTA15TM/MarshmelloMusicApi/blob/main", "end":"?raw=true", "albums":{"items":
-			[
-				{
-					"name":"Joytime 4",
-					"release_year":"",
-					"album_icon":"",
-					"release":false,
-					"redirect":""
-				 },
-				{
-				   "name":"Joytime 3",
-				   "release_year":"2019",
-				   "album_icon":"/albums/joytime_3_album_img.jpg",
-				   "release":true,
-				   "redirect":""
-				},
-				{
-				   "name":"Joytime 2",
-				   "release_year":"2018",
-				   "album_icon":"/albums/joytime_2_album_img.jpg",
-				   "release":true,
-				   "redirect":""
-				},
-				{
-				   "name":"Joytime",
-				   "release_year":"2016",
-				   "album_icon":"/albums/joytime_album_img.jpg",
-				   "release":true,
-				   "redirect":""
-				}
-			]}
-	}
-]
+{
+	"domain":"https://github.com/JTA15TM/MarshmelloMusicApi/blob/main", "end":"?raw=true", "albums":{"items":
+		[
+			{
+				"name":"Joytime 4",
+				"release_year":"",
+				"album_icon":"",
+				"release":false,
+				"redirect":""
+			 },
+			{
+			   "name":"Joytime 3",
+			   "release_year":"2019",
+			   "album_icon":"/albums/joytime_3_album_img.jpg",
+			   "release":true,
+			   "redirect":""
+			},
+			{
+			   "name":"Joytime 2",
+			   "release_year":"2018",
+			   "album_icon":"/albums/joytime_2_album_img.jpg",
+			   "release":true,
+			   "redirect":""
+			},
+			{
+			   "name":"Joytime",
+			   "release_year":"2016",
+			   "album_icon":"/albums/joytime_album_img.jpg",
+			   "release":true,
+			   "redirect":""
+			}
+		]}
+}
