@@ -3,6 +3,22 @@
 	{"items":
 		[
 		   {
+				"title":"OK Not To Be OK",
+				"release_year":2020,
+				"duration":"2:38",
+				"music_url":"/audios/OkNotToBeOk_2020.mp3",
+				"music_icon":"/albums/music_albums/OkNotToBeOk_Album.jpg",
+				"music_logo":"",
+				"has_album":0,
+				"album_name":"",
+				"album_img":"",
+				"artist":
+				[
+				  {"name":"Marshmello"},
+				  {"name":"Demi Lovato"}
+				]
+		   },
+		   {
 			 "title":"Be Kind",
 			 "release_year":2020,
 			 "duration":"2:53",
