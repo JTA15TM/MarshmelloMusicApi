@@ -3,7 +3,7 @@
 	{"items":
 		[
 		   {
-				"title":"Live 2018",
+				"title":"Live",
 				"release_year":2018,
 				"duration":"01:23:31",
 				"music_url":"/lives/Live_2018/Live_2018.mp3",
@@ -15,7 +15,7 @@
 				]
            },
            {
-                "title":"Galp Beach Party - Live 2019",
+                "title":"Galp Beach Party",
                 "release_year":2019,
                 "duration":"01:16:36",
                 "music_url":"/lives/Live_2019_GBP/Live_2019_Galp_Beach_Party.mp3",
@@ -27,7 +27,7 @@
                 ]
             },
             {
-                "title":"Ultra Music Festival Miami - Live 2019",
+                "title":"Ultra Music Festival Miami",
                 "release_year":2019,
                 "duration":"01:14:32",
                 "music_url":"/lives/Live_2019_UMF/Live_2019_UltraMusicFestival_Miami.mp3",
