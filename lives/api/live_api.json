@@ -1,0 +1,19 @@
+{
+	"domain":"https://github.com/JTA15TM/MarshmelloMusicApi/blob/main", "end":"?raw=true", "audio":
+	{"items":
+		[
+		   {
+				"title":"Live 2018",
+				"release_year":2018,
+				"duration":"01:23:31",
+				"music_url":"/lives/Live_2018/Live_2018.mp3",
+				"music_icon":"",
+				"music_logo":"",
+				"artist":
+				[
+				  {"name":"Marshmello"}
+				]
+           }
+        ]
+    }
+}
