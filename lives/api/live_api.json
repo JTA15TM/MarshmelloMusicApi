@@ -7,7 +7,7 @@
 				"release_year":2018,
 				"duration":"01:23:31",
 				"music_url":"/lives/Live_2018/Live_2018.mp3",
-				"music_icon":"",
+				"music_icon":"/lives/Live_2018/icon.jpg",
 				"music_logo":"",
 				"artist":
 				[
@@ -19,7 +19,7 @@
                 "release_year":2019,
                 "duration":"01:16:36",
                 "music_url":"/lives/Live_2019_GBP/Live_2019_Galp_Beach_Party.mp3",
-                "music_icon":"",
+                "music_icon":"/lives/Live_2019_GBP/icon.jpg",
                 "music_logo":"",
                 "artist":
                 [
@@ -31,7 +31,7 @@
                 "release_year":2019,
                 "duration":"01:14:32",
                 "music_url":"/lives/Live_2019_UMF/Live_2019_UltraMusicFestival_Miami.mp3",
-                "music_icon":"",
+                "music_icon":"/lives/Live_2019_UMF/icon.png",
                 "music_logo":"",
                 "artist":
                 [
