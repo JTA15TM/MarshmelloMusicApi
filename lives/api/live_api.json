@@ -13,7 +13,31 @@
 				[
 				  {"name":"Marshmello"}
 				]
-           }
+           },
+           {
+                "title":"Galp Beach Party - Live 2019",
+                "release_year":2019,
+                "duration":"01:16:36",
+                "music_url":"/lives/Live_2019_GBP/Live_2019_Galp_Beach_Party.mp3",
+                "music_icon":"",
+                "music_logo":"",
+                "artist":
+                [
+                    {"name":"Marshmello"}
+                ]
+            },
+            {
+                "title":"Ultra Music Festival Miami - Live 2019",
+                "release_year":2019,
+                "duration":"01:14:32",
+                "music_url":"/lives/Live_2019_UMF/Live_2019_UltraMusicFestival_Miami.mp3",
+                "music_icon":"",
+                "music_logo":"",
+                "artist":
+                [
+                    {"name":"Marshmello"}
+                ]
+            }
         ]
     }
 }
