@@ -2,18 +2,6 @@
 	"domain":"https://github.com/JTA15TM/MarshmelloMusicApi/blob/main", "end":"?raw=true", "live":
 	{"items":
 		[
-		   {
-				"title":"Live",
-				"release_year":2018,
-				"duration":"01:23:31",
-				"music_url":"/lives/Live_2018/Live_2018.mp3",
-				"music_icon":"/lives/Live_2018/icon.jpg",
-				"music_logo":"",
-				"artist":
-				[
-				  {"name":"Marshmello"}
-				]
-           },
            {
                 "title":"Galp Beach Party",
                 "release_year":2019,
@@ -37,7 +25,19 @@
                 [
                     {"name":"Marshmello"}
                 ]
-            }
+            },
+            {
+				"title":"Live",
+				"release_year":2018,
+				"duration":"01:23:31",
+				"music_url":"/lives/Live_2018/Live_2018.mp3",
+				"music_icon":"/lives/Live_2018/icon.jpg",
+				"music_logo":"",
+				"artist":
+				[
+				  {"name":"Marshmello"}
+				]
+           }
         ]
     }
 }
