@@ -1,8 +1,14 @@
 <?php
-    function writeMsg() 
-    {
-        echo "Hello world!";
+header('Content-type: text/html; charset=UTF-8');
+if (count($_REQUEST)>0){
+    require_once 'test.php';
+    foreach ($_REQUEST as $apiFunctionName => $apiFunctionParams) {
+        $APIEngine=new APIEngine($apiFunctionName,$apiFunctionParams);
+        echo $APIEngine->callApiFunction(); 
+        break;
     }
-
-    writeMsg(); 
+}else{
+    $jsonError->error='No function called';
+    echo json_encode($jsonError);
+}
 ?>
