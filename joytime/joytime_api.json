@@ -3,6 +3,336 @@
 	{"items":
 		[
             {
+                "joytime_title":"JOYTIME 4 - Coming Soon", 
+                "joytime_icon":"",
+                "items":
+                []
+            },
+
+            {
+              "joytime_title":"JOYTIME 3", 
+              "joytime_icon":"/albums/joytime_3_album_img.jpg",
+              "items":
+              [
+                  {
+                      "title":"Here We Go Again",
+                      "release_year":2019,
+                      "duration":"3:06",
+                      "music_url":"/audios/Here_We_Go_Again_2019.mp3",
+                      "music_icon":"",
+                      "music_logo":"",
+                      "has_album":1,
+                      "album_name":"Joytime 3",
+                      "album_img":"/albums/joytime_3_album_img.jpg",
+                      "artist":
+                      [
+                        {"name":"Marshmello"}
+                      ]
+                    },
+                    {
+                      "title":"Angklung life",
+                      "release_year":2019,
+                      "duration":"3:09",
+                      "music_url":"/audios/Angklung_Life_2019.mp3",
+                      "music_icon":"",
+                      "music_logo":"",
+                      "has_album":1,
+                      "album_name":"Joytime 3",
+                      "album_img":"/albums/joytime_3_album_img.jpg",
+                      "artist":
+                      [
+                        {"name":"Marshmello"}
+                      ]
+                    },
+                    {
+                      "title":"Set Me Free",
+                      "release_year":2019,
+                      "duration":"3:03",
+                      "music_url":"/audios/Set_Me_Free_2019.mp3",
+                      "music_icon":"",
+                      "music_logo":"",
+                      "has_album":1,
+                      "album_name":"Joytime 3",
+                      "album_img":"/albums/joytime_3_album_img.jpg",
+                      "artist":
+                      [
+                        {"name":"Marshmello"},
+                        {"name":"Bellecour"}
+                      ]
+                    },
+                    {
+                      "title":"Proud",
+                      "release_year":2019,
+                      "duration":"3:11",
+                      "music_url":"/audios/Proud_2019.mp3",
+                      "music_icon":"",
+                      "music_logo":"",
+                      "has_album":1,
+                      "album_name":"Joytime 3",
+                      "album_img":"/albums/joytime_3_album_img.jpg",
+                      "artist":
+                      [
+                        {"name":"Marshmello"}
+                      ]
+                    },
+                    {
+                      "title":"Earthquake",
+                      "release_year":2019,
+                      "duration":"2:28",
+                      "music_url":"/audios/Earthquake_2019.mp3",
+                      "music_icon":"",
+                      "music_logo":"",
+                      "has_album":1,
+                      "album_name":"Joytime 3",
+                      "album_img":"/albums/joytime_3_album_img.jpg",
+                      "artist":
+                      [
+                        {"name":"Marshmello"},
+                        {"name":"TYNAN"}
+                      ]
+                    },
+                    {
+                      "title":"Run it Up",
+                      "release_year":2019,
+                      "duration":"2:23",
+                      "music_url":"/audios/Run_it_Up_2019.mp3",
+                      "music_icon":"",
+                      "music_logo":"",
+                      "has_album":1,
+                      "album_name":"Joytime 3",
+                      "album_img":"/albums/joytime_3_album_img.jpg",
+                      "artist":
+                      [
+                        {"name":"Marshmello"}
+                      ]
+                    },
+                    {
+                      "title":"Let's Get Down",
+                      "release_year":2019,
+                      "duration":"2:43",
+                      "music_url":"/audios/Lets_Get_Down_2019.mp3",
+                      "music_icon":"",
+                      "music_logo":"",
+                      "has_album":1,
+                      "album_name":"Joytime 3",
+                      "album_img":"/albums/joytime_3_album_img.jpg",
+                      "artist":
+                      [
+                        {"name":"Marshmello"},
+                        {"name":"Yultron"}
+                      ]
+                    },
+                    {
+                      "title":"Falling To Pieces",
+                      "release_year":2019,
+                      "duration":"2:46",
+                      "music_url":"/audios/Falling_To_Pieces_2019.mp3",
+                      "music_icon":"",
+                      "music_logo":"",
+                      "has_album":1,
+                      "album_name":"Joytime 3",
+                      "album_img":"/albums/joytime_3_album_img.jpg",
+                      "artist":
+                      [
+                        {"name":"Marshmello"},
+                        {"name":"Crankdat"}
+                      ]
+                    },
+                    {
+                      "title":"Down",
+                      "release_year":2019,
+                      "duration":"2:33",
+                      "music_url":"/audios/Down_2019.mp3",
+                      "music_icon":"",
+                      "music_logo":"",
+                      "has_album":1,
+                      "album_name":"Joytime 3",
+                      "album_img":"/albums/joytime_3_album_img.jpg",
+                      "artist":
+                      [
+                        {"name":"Marshmello"}
+                      ]
+                    },
+                    {
+                      "title":"Room To Fall",
+                      "release_year":2019,
+                      "duration":"3:01",
+                      "music_url":"/audios/Room_to_Fall_2019.mp3",
+                      "music_icon":"",
+                      "music_logo":"",
+                      "has_album":1,
+                      "album_name":"Joytime 3",
+                      "album_img":"/albums/joytime_3_album_img.jpg",
+                      "artist":
+                      [
+                        {"name":"Marshmello"},
+                        {"name":"Elohim"},
+                        {"name":"Flux Pavilion"}
+                      ]
+                    },
+                    {
+                      "title":"Sad Songs",
+                      "release_year":2019,
+                      "duration":"3:15",
+                      "music_url":"/audios/Sad_Songs_2019.mp3",
+                      "music_icon":"",
+                      "music_logo":"",
+                      "has_album":1,
+                      "album_name":"Joytime 3",
+                      "album_img":"/albums/joytime_3_album_img.jpg",
+                      "artist":
+                      [
+                        {"name":"Marshmello"}
+                      ]
+                    },
+                    {
+                      "title":"Put Yo Hands Up",
+                      "release_year":2019,
+                      "duration":"3:16",
+                      "music_url":"/audios/Put_Yo_Hands_Up_2019.mp3",
+                      "music_icon":"",
+                      "music_logo":"",
+                      "has_album":1,
+                      "album_name":"Joytime 3",
+                      "album_img":"/albums/joytime_3_album_img.jpg",
+                      "artist":
+                      [
+                        {"name":"Marshmello"},
+                        {"name":"Slushii"}
+                      ]
+                    }
+              ]
+            },
+
+            {
+            "joytime_title":"JOYTIME 2", 
+            "joytime_icon":"/albums/joytime_2_album_img.jpg",
+            "items":
+            [
+                {
+                    "title":"Flashbacks",
+                    "release_year":2018,
+                    "duration":"2:46",
+                    "music_url":"/audios/Flashbacks_2018.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Joytime 2",
+                    "album_img":"/albums/joytime_2_album_img.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"}
+                    ]
+                  },
+                  {
+                    "title":"Paralyzed",
+                    "release_year":2018,
+                    "duration":"3:40",
+                    "music_url":"/audios/Paralyzed_2018.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Joytime 2",
+                    "album_img":"/albums/joytime_2_album_img.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"}
+                    ]
+                  },
+                  {
+                    "title":"Imagine",
+                    "release_year":2018,
+                    "duration":"3:51",
+                    "music_url":"/audios/Imagine_2018.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Joytime 2",
+                    "album_img":"/albums/joytime_2_album_img.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"}
+                    ]
+                  },
+                  {
+                    "title":"Power",
+                    "release_year":2018,
+                    "duration":"3:42",
+                    "music_url":"/audios/Power_2018.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Joytime 2",
+                    "album_img":"/albums/joytime_2_album_img.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"}
+                    ]
+                  },
+                  {
+                    "title":"Check This Out",
+                    "release_year":2018,
+                    "duration":"3:40",
+                    "music_url":"/audios/Check_This_Out_2018.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Joytime 2",
+                    "album_img":"/albums/joytime_2_album_img.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"}
+                    ]
+                  },
+                  {
+                    "title":"Rooftops",
+                    "release_year":2018,
+                    "duration":"2:58",
+                    "music_url":"/audios/Rooftops_2018.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Joytime 2",
+                    "album_img":"/albums/joytime_2_album_img.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"}
+                    ]
+                  },
+                  {
+                    "title":"Together",
+                    "release_year":2018,
+                    "duration":"4:07",
+                    "music_url":"/audios/Together_2018.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Joytime 2",
+                    "album_img":"/albums/joytime_2_album_img.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"}
+                    ]
+                  },
+                  {
+                    "title":"Stars",
+                    "release_year":2018,
+                    "duration":"4:07",
+                    "music_url":"/audios/Stars_2018.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Joytime 2",
+                    "album_img":"/albums/joytime_2_album_img.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"}
+                    ]
+                  }
+            ]
+            },
+
+            {
                 "joytime_title":"JOYTIME", 
                 "joytime_icon":"/albums/joytime_album_img.jpg",
                 "items":
@@ -141,330 +471,6 @@
                         [
                           {"name":"Marshmello"},
                           {"name":"Omar LinX"}
-                        ]
-                      }
-                ]
-            },
-
-            
-            {
-                "joytime_title":"JOYTIME 2", 
-                "joytime_icon":"/albums/joytime_2_album_img.jpg",
-                "items":
-                [
-                    {
-                        "title":"Flashbacks",
-                        "release_year":2018,
-                        "duration":"2:46",
-                        "music_url":"/audios/Flashbacks_2018.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 2",
-                        "album_img":"/albums/joytime_2_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"}
-                        ]
-                      },
-                      {
-                        "title":"Paralyzed",
-                        "release_year":2018,
-                        "duration":"3:40",
-                        "music_url":"/audios/Paralyzed_2018.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 2",
-                        "album_img":"/albums/joytime_2_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"}
-                        ]
-                      },
-                      {
-                        "title":"Imagine",
-                        "release_year":2018,
-                        "duration":"3:51",
-                        "music_url":"/audios/Imagine_2018.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 2",
-                        "album_img":"/albums/joytime_2_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"}
-                        ]
-                      },
-                      {
-                        "title":"Power",
-                        "release_year":2018,
-                        "duration":"3:42",
-                        "music_url":"/audios/Power_2018.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 2",
-                        "album_img":"/albums/joytime_2_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"}
-                        ]
-                      },
-                      {
-                        "title":"Check This Out",
-                        "release_year":2018,
-                        "duration":"3:40",
-                        "music_url":"/audios/Check_This_Out_2018.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 2",
-                        "album_img":"/albums/joytime_2_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"}
-                        ]
-                      },
-                      {
-                        "title":"Rooftops",
-                        "release_year":2018,
-                        "duration":"2:58",
-                        "music_url":"/audios/Rooftops_2018.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 2",
-                        "album_img":"/albums/joytime_2_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"}
-                        ]
-                      },
-                      {
-                        "title":"Together",
-                        "release_year":2018,
-                        "duration":"4:07",
-                        "music_url":"/audios/Together_2018.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 2",
-                        "album_img":"/albums/joytime_2_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"}
-                        ]
-                      },
-                      {
-                        "title":"Stars",
-                        "release_year":2018,
-                        "duration":"4:07",
-                        "music_url":"/audios/Stars_2018.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 2",
-                        "album_img":"/albums/joytime_2_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"}
-                        ]
-                      }
-                ]
-            },
-
-            {
-                "joytime_title":"JOYTIME 3", 
-                "joytime_icon":"/albums/joytime_3_album_img.jpg",
-                "items":
-                [
-                    {
-                        "title":"Here We Go Again",
-                        "release_year":2019,
-                        "duration":"3:06",
-                        "music_url":"/audios/Here_We_Go_Again_2019.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 3",
-                        "album_img":"/albums/joytime_3_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"}
-                        ]
-                      },
-                      {
-                        "title":"Angklung life",
-                        "release_year":2019,
-                        "duration":"3:09",
-                        "music_url":"/audios/Angklung_Life_2019.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 3",
-                        "album_img":"/albums/joytime_3_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"}
-                        ]
-                      },
-                      {
-                        "title":"Set Me Free",
-                        "release_year":2019,
-                        "duration":"3:03",
-                        "music_url":"/audios/Set_Me_Free_2019.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 3",
-                        "album_img":"/albums/joytime_3_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"},
-                          {"name":"Bellecour"}
-                        ]
-                      },
-                      {
-                        "title":"Proud",
-                        "release_year":2019,
-                        "duration":"3:11",
-                        "music_url":"/audios/Proud_2019.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 3",
-                        "album_img":"/albums/joytime_3_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"}
-                        ]
-                      },
-                      {
-                        "title":"Earthquake",
-                        "release_year":2019,
-                        "duration":"2:28",
-                        "music_url":"/audios/Earthquake_2019.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 3",
-                        "album_img":"/albums/joytime_3_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"},
-                          {"name":"TYNAN"}
-                        ]
-                      },
-                      {
-                        "title":"Run it Up",
-                        "release_year":2019,
-                        "duration":"2:23",
-                        "music_url":"/audios/Run_it_Up_2019.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 3",
-                        "album_img":"/albums/joytime_3_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"}
-                        ]
-                      },
-                      {
-                        "title":"Let's Get Down",
-                        "release_year":2019,
-                        "duration":"2:43",
-                        "music_url":"/audios/Lets_Get_Down_2019.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 3",
-                        "album_img":"/albums/joytime_3_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"},
-                          {"name":"Yultron"}
-                        ]
-                      },
-                      {
-                        "title":"Falling To Pieces",
-                        "release_year":2019,
-                        "duration":"2:46",
-                        "music_url":"/audios/Falling_To_Pieces_2019.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 3",
-                        "album_img":"/albums/joytime_3_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"},
-                          {"name":"Crankdat"}
-                        ]
-                      },
-                      {
-                        "title":"Down",
-                        "release_year":2019,
-                        "duration":"2:33",
-                        "music_url":"/audios/Down_2019.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 3",
-                        "album_img":"/albums/joytime_3_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"}
-                        ]
-                      },
-                      {
-                        "title":"Room To Fall",
-                        "release_year":2019,
-                        "duration":"3:01",
-                        "music_url":"/audios/Room_to_Fall_2019.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 3",
-                        "album_img":"/albums/joytime_3_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"},
-                          {"name":"Elohim"},
-                          {"name":"Flux Pavilion"}
-                        ]
-                      },
-                      {
-                        "title":"Sad Songs",
-                        "release_year":2019,
-                        "duration":"3:15",
-                        "music_url":"/audios/Sad_Songs_2019.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 3",
-                        "album_img":"/albums/joytime_3_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"}
-                        ]
-                      },
-                      {
-                        "title":"Put Yo Hands Up",
-                        "release_year":2019,
-                        "duration":"3:16",
-                        "music_url":"/audios/Put_Yo_Hands_Up_2019.mp3",
-                        "music_icon":"",
-                        "music_logo":"",
-                        "has_album":1,
-                        "album_name":"Joytime 3",
-                        "album_img":"/albums/joytime_3_album_img.jpg",
-                        "artist":
-                        [
-                          {"name":"Marshmello"},
-                          {"name":"Slushii"}
                         ]
                       }
                 ]
