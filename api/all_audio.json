@@ -3,6 +3,22 @@
 	{"items":
 		[
 			{
+				"title":"Hate The Other Side",
+				"release_year":2020,
+				"duration":"2:14",
+				"music_url":"/audios/Hate_The_Other_Side_2020.mp3",
+				"music_icon":"/albums/music_albums/Hate_The_Other_Side_Album.png",
+				"music_logo":"",
+				"has_album":0,
+				"album_name":"",
+				"album_img":"",
+				"artist":
+				[
+				  {"name":"Juice WRLD"},
+				  {"name":"Marshmello"}
+				]
+			},
+			{
 				"title":"Come & Go",
 				"release_year":2020,
 				"duration":"3:26",
