@@ -3,6 +3,22 @@
 	{"items":
 		[
 			{
+				"title":"Baggin",
+				"release_year":2020,
+				"duration":"3:17",
+				"music_url":"/audios/Baggin_2020.mp3",
+				"music_icon":"/albums/music_albums/Baggin_Album.png",
+				"music_logo":"",
+				"has_album":0,
+				"album_name":"",
+				"album_img":"",
+				"artist":
+				[
+				  {"name":"Marshmello"},
+				  {"name":"42 Dugg"}
+				]
+			},
+			{
 				"title":"Hate The Other Side",
 				"release_year":2020,
 				"duration":"2:14",
