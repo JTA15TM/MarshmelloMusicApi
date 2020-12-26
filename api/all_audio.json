@@ -2,6 +2,22 @@
 	"domain":"https://github.com/JTA15TM/MarshmelloMusicApi/blob/main", "end":"?raw=true", "audio":
 	{"items":
 		[
+			{
+				"title":"Come & Go",
+				"release_year":2020,
+				"duration":"3:26",
+				"music_url":"/audios/Come_and_Go_2020.mp3",
+				"music_icon":"/albums/music_albums/Come_and_Go_Album.png",
+				"music_logo":"",
+				"has_album":0,
+				"album_name":"",
+				"album_img":"",
+				"artist":
+				[
+				  {"name":"Juice WRLD"},
+				  {"name":"Marshmello"}
+				]
+			},
 		   {
 				"title":"OK Not To Be OK",
 				"release_year":2020,
