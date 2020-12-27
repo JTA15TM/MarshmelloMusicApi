@@ -5,6 +5,7 @@
             {
                 "joytime_title":"JOYTIME 4 - Coming Soon", 
                 "joytime_icon":"",
+                "locked":true,
                 "items":
                 []
             },
@@ -12,6 +13,7 @@
             {
               "joytime_title":"JOYTIME 3", 
               "joytime_icon":"/albums/joytime_3_album_img.jpg",
+              "locked":false,
               "items":
               [
                   {
@@ -207,6 +209,7 @@
             {
             "joytime_title":"JOYTIME 2", 
             "joytime_icon":"/albums/joytime_2_album_img.jpg",
+            "locked":false,
             "items":
             [
                 {
@@ -335,6 +338,7 @@
             {
                 "joytime_title":"JOYTIME", 
                 "joytime_icon":"/albums/joytime_album_img.jpg",
+                "locked":false,
                 "items":
                 [
                     {
