@@ -1,6 +1,6 @@
 {
-   "version":"2.65.1-close-beta",
-   "close":false,
+   "version":"2.65-beta",
+   "close":true,
    "update_description":
    [
       {
