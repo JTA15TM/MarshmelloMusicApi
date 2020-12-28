@@ -1,4 +1,10 @@
 {
-   "version":"1.0",
-   "update_description":"Первый выпуск приложения"
+   "version":"2.65-close-beta",
+   "update_description":
+   [
+      {
+         "lang":"ru",
+         "description":""
+      }
+   ]
 }
