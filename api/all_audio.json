@@ -607,6 +607,21 @@
 			 ]
 		   },
 		   {
+			"title":"WaVeZ",
+			"release_year":2018,
+			"duration":"3:25",
+			"music_url":"/audios/WaVeZ_2020.mp3",
+			"music_icon":"/albums/music_albums/WaVeZ_Album.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+			  {"name":"Marshmello"}
+			]
+			},
+		   {
 			 "title":"Spootlight",
 			 "release_year":2018,
 			 "duration":"2:58",
