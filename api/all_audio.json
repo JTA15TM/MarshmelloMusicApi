@@ -354,6 +354,22 @@
 			 ]
 		   },
 		   {
+			"title":"There x2",
+			"release_year":2018,
+			"duration":"3:15",
+			"music_url":"/audios/There_x2_2018.mp3",
+			"music_icon":"/albums/music_albums/There_x2_Album.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+			  {"name":"Slushii"},
+			  {"name":"Marshmello"}
+			]
+		   },
+		   {
 			 "title":"Sad Songs",
 			 "release_year":2019,
 			 "duration":"3:15",
