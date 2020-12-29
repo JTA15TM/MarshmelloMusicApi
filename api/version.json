@@ -1,15 +1,15 @@
 {
-   "version":"3.0.1-release",
+   "version":"3.0.2-release",
    "close":false,
    "update_description":
    [
       {
          "lang":"ru",
-         "description":"Выход из закрытого BETA-Теста"
+         "description":"Устранение бага с названием трека, добавлен поиск во вкладку \"Музыка\". Исправления багов."
       },
       {
          "lang":"en",
-         "description":"Exiting a closed BETA-Test"
+         "description":"Fixing a bug with the track name, added search to the tab \"Music\". Bug fixes."
       }
    ]
 }
