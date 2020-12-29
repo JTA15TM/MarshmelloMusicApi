@@ -1130,6 +1130,22 @@
 			   {"name":"Marshmello"}
 			 ]
 		   },
+		   {
+			"title":"Where Are Now (Marshmello Remix) [Skrillex Flip]",
+			"release_year":2015,
+			"duration":"03:12",
+			"music_url":"/audios/Where_Are_Now_2015.mp3",
+			"music_icon":"/albums/music_albums/Where_Are_U_Now_Album.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+			  {"name":"Skrillex"},
+			  {"name":"Diplo"}
+			]
+		  },
 			{
 			 "title":"Everyday",
 			 "release_year":2014,
