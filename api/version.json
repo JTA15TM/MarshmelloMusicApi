@@ -5,11 +5,11 @@
    [
       {
          "lang":"ru",
-         "description":"Устранение бага с названием трека, добавлен поиск во вкладку \"Музыка\". Исправление багов."
-      },
+         "description":"Устранение бага с названием трека, добавлен поиск во вкладку \"Музыка\". Исправление багов"
+      }, 
       {
          "lang":"en",
-         "description":"Fixing a bug with the track name, added search to the tab \"Music\". Bug fixes."
+         "description":"Fixing a bug with the track name, added search to the tab \"Music\". Bug fixes"
       }
    ]
 }
