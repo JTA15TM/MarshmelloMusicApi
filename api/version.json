@@ -1,15 +1,15 @@
 {
-   "version":"3.0.2-release",
+   "version":"3.0.34-release",
    "close":false,
    "update_description":
    [
       {
          "lang":"ru",
-         "description":"Устранение бага с названием трека, добавлен поиск во вкладку \"Музыка\". Исправление багов"
+         "description":"Устранение багов с поиском во вкладке \"Музыка\". При проигрывании трека и при выходе из приложения - нижняя плитка(музыкальный индикатор) не пропадает. Устранение небольших багов."
       }, 
       {
          "lang":"en",
-         "description":"Fixing a bug with the track name, added search to the tab \"Music\". Bug fixes"
+         "description":"Fixing bugs with the search in the \"Music\" tab. When you play a track and exit the app, the bottom tile (music indicator) does not disappear. Elimination of small bugs."
       }
    ]
 }
