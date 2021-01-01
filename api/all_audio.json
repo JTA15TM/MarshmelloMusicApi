@@ -1001,6 +1001,91 @@
 			   {"name":"Marshmello"}
 			 ]
 		   },
+		   {
+			"title":"Silence (Slushii Remix)",
+			"release_year":2017,
+			"duration":"3:14",
+			"music_url":"/audios/Silence_Slushii_Remix_2017.mp3",
+			"music_icon":"/playlists/icons/Silence_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+				{"name":"Marshmello"},
+				{"name":"SUMR CAMP"},
+				{"name":"Khalid"}
+			]
+		},
+		{
+			"title":"Silence (Ookay remix)",
+			"release_year":2017,
+			"duration":"3:13",
+			"music_url":"/audios/Silence_Ookay_remix_2017.mp3",
+			"music_icon":"/playlists/icons/Silence_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+				{"name":"Marshmello"},
+				{"name":"SUMR CAMP"},
+				{"name":"Khalid"}
+			]
+		},
+		{
+			"title":"Silence (Tiesto's Big Room Remix)",
+			"release_year":2017,
+			"duration":"3:22",
+			"music_url":"/audios/Silence_Tiestos_Big_Room_Remix.mp3",
+			"music_icon":"/playlists/icons/Silence_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+				{"name":"Marshmello"},
+				{"name":"SUMR CAMP"},
+				{"name":"Khalid"}
+			]
+		},
+		{
+			"title":"Silence (Illenium Remix)",
+			"release_year":2017,
+			"duration":"3:25",
+			"music_url":"/audios/Silence_Illenium_Remix_2017.mp3",
+			"music_icon":"/playlists/icons/Silence_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+				{"name":"Marshmello"},
+				{"name":"SUMR CAMP"},
+				{"name":"Khalid"}
+			]
+		},
+		{
+			"title":"Silence (SUMR CAMP Remix)",
+			"release_year":2017,
+			"duration":"3:45",
+			"music_url":"/audios/Silence_SUMR_CAMP_Remix_2017.mp3",
+			"music_icon":"/playlists/icons/Silence_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+				{"name":"Marshmello"},
+				{"name":"SUMR CAMP"},
+				{"name":"Khalid"}
+			]
+		},
 			{
 			 "title":"Silence",
 			 "release_year":2017,
