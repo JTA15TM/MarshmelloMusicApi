@@ -3,7 +3,7 @@
 	{"items":
 		[
             {
-                "playlist_title":"Tongue Tied Remixes", 
+                "playlist_title":"Tongue Tied (Remixes)", 
                 "playlist_icon":"/playlists/icons/Tongue_Tied_Remixes.png",
                 "audio":
                 [
@@ -96,7 +96,7 @@
             },
 
             {
-                "playlist_title":"One Thing Right Remixes", 
+                "playlist_title":"One Thing Right (Remixes)", 
                 "playlist_icon":"/playlists/icons/One_Thing_Right_Remixes.png",
                 "audio":
                 [
@@ -180,6 +180,15 @@
                             {"name":"Kane Brown"}
                         ]
                     }
+                ]
+            },
+
+            {
+                "playlist_title":"Silence (Remixes)", 
+                "playlist_icon":"/playlists/icons/Silence_Remixes.png",
+                "audio":
+                [
+
                 ]
             }
         ]
