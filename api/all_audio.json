@@ -568,6 +568,86 @@
 			 ]
 		   },
 		   {
+			"title":"One Thing Right (Subshock & Evangelos Remix)",
+			"release_year":2019,
+			"duration":"3:22",
+			"music_url":"/audios/One_Thing_Right_Subshock_Evangelos_Remix_2019.mp3",
+			"music_icon":"/playlists/icons/One_Thing_Right_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+				{"name":"Marshmello"},
+				{"name":"Kane Brown"}
+			]
+		},
+		{
+			"title":"One Thing Right (KDrew Remix)",
+			"release_year":2019,
+			"duration":"2:54",
+			"music_url":"/audios/One_Thing_Right_KDrew_Remix_KDrew_Remix_2019.mp3",
+			"music_icon":"/playlists/icons/One_Thing_Right_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+				{"name":"Marshmello"},
+				{"name":"Kane Brown"}
+			]
+		},
+		{
+			"title":"One Thing Right (Duke & Jones Remix)",
+			"release_year":2019,
+			"duration":"3:01",
+			"music_url":"/audios/One_Thing_Right_Duke_Jones_Remix_2019.mp3",
+			"music_icon":"/playlists/icons/One_Thing_Right_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+				{"name":"Marshmello"},
+				{"name":"Kane Brown"}
+			]
+		},
+		{
+			"title":"One Thing Right (Firebeatz Remix)",
+			"release_year":2019,
+			"duration":"3:12",
+			"music_url":"/audios/One_Thing_Right_Firebeatz_Remix_2019.mp3",
+			"music_icon":"/playlists/icons/One_Thing_Right_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+				{"name":"Marshmello"},
+				{"name":"Kane Brown"}
+			]
+		},
+		{
+			"title":"One Thing Right (PMP Remix)",
+			"release_year":2019,
+			"duration":"3:48",
+			"music_url":"/audios/One_Thing_Right_PMP_Remix_PMP_Remix_2019.mp3",
+			"music_icon":"/playlists/icons/One_Thing_Right_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+				{"name":"Marshmello"},
+				{"name":"Kane Brown"}
+			]
+		},
+		   {
 			 "title":"One Thing Right",
 			 "release_year":2019,
 			 "duration":"3:02",
