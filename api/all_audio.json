@@ -568,6 +568,54 @@
 			 ]
 		   },
 		   {
+			"title":"One Thing Right (Late Night Remix)",
+			"release_year":2019,
+			"duration":"3:12",
+			"music_url":"/audios/One_Thing_Right_Late_Night_Remix_2019.mp3",
+			"music_icon":"/playlists/icons/One_Thing_Right_Remixes_Pt2.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+				{"name":"Marshmello"},
+				{"name":"Kane Brown"}
+			]
+		},
+		{
+			"title":"One Thing Right (Konie Remix)",
+			"release_year":2019,
+			"duration":"2:28",
+			"music_url":"/audios/One_Thing_Right_Konie_Remix_2019.mp3",
+			"music_icon":"/playlists/icons/One_Thing_Right_Remixes_Pt2.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+				{"name":"Marshmello"},
+				{"name":"Kane Brown"}
+			]
+		},
+		{
+			"title":"One Thing Right (Ruhde Remix)",
+			"release_year":2019,
+			"duration":"3:40",
+			"music_url":"/audios/One_Thing_Right_Ruhde_Remix_2019.mp3",
+			"music_icon":"/playlists/icons/One_Thing_Right_Remixes_Pt2.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+				{"name":"Marshmello"},
+				{"name":"Kane Brown"}
+			]
+		},
+		   {
 			"title":"One Thing Right (Subshock & Evangelos Remix)",
 			"release_year":2019,
 			"duration":"3:22",

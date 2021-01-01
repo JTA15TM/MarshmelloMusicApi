@@ -184,6 +184,62 @@
             },
 
             {
+                "playlist_title":"One Thing Right (Remixes Pt. 2)", 
+                "playlist_icon":"/playlists/icons/One_Thing_Right_Remixes_Pt2.png",
+                "audio":
+                [
+                    {
+                        "title":"One Thing Right (Late Night Remix)",
+                        "release_year":2019,
+                        "duration":"3:12",
+                        "music_url":"/audios/One_Thing_Right_Late_Night_Remix_2019.mp3",
+                        "music_icon":"",
+                        "music_logo":"",
+                        "has_album":0,
+                        "album_name":"",
+                        "album_img":"",
+                        "artist":
+                        [
+                            {"name":"Marshmello"},
+                            {"name":"Kane Brown"}
+                        ]
+                    },
+                    {
+                        "title":"One Thing Right (Konie Remix)",
+                        "release_year":2019,
+                        "duration":"2:28",
+                        "music_url":"/audios/One_Thing_Right_Konie_Remix_2019.mp3",
+                        "music_icon":"",
+                        "music_logo":"",
+                        "has_album":0,
+                        "album_name":"",
+                        "album_img":"",
+                        "artist":
+                        [
+                            {"name":"Marshmello"},
+                            {"name":"Kane Brown"}
+                        ]
+                    },
+                    {
+                        "title":"One Thing Right (Ruhde Remix)",
+                        "release_year":2019,
+                        "duration":"3:40",
+                        "music_url":"/audios/One_Thing_Right_Ruhde_Remix_2019.mp3",
+                        "music_icon":"",
+                        "music_logo":"",
+                        "has_album":0,
+                        "album_name":"",
+                        "album_img":"",
+                        "artist":
+                        [
+                            {"name":"Marshmello"},
+                            {"name":"Kane Brown"}
+                        ]
+                    }
+                ]
+            },
+
+            {
                 "playlist_title":"Silence (Remixes)", 
                 "playlist_icon":"/playlists/icons/Silence_Remixes.png",
                 "audio":
