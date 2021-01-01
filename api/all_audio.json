@@ -466,6 +466,108 @@
 			 ]
 		   },
 		   {
+			"title":"Tongue Tied",
+			"release_year":2019,
+			"duration":"3:06",
+			"music_url":"/audios/Tongue_Tied_2019.mp3",
+			"music_icon":"/playlists/icons/Tongue_Tied_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+			  {"name":"Marshmello"},
+			  {"name":"Yungblud"},
+			  {"name":"Blackbear"}
+			]
+		  },
+		  {
+			"title":"Tongue Tied (HiGuys Remix)",
+			"release_year":2019,
+			"duration":"4:35",
+			"music_url":"/audios/Tongue_Tied_HiGuys_Remix_2019.mp3",
+			"music_icon":"/playlists/icons/Tongue_Tied_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+			  {"name":"Marshmello"},
+			  {"name":"Yungblud"},
+			  {"name":"Blackbear"}
+			]
+		  },
+		  {
+			"title":"Tongue Tied (Gentlemens Club Remix)",
+			"release_year":2019,
+			"duration":"4:08",
+			"music_url":"/audios/Tongue_Tied_Gentlemens_Club_Remix_2019.mp3",
+			"music_icon":"/playlists/icons/Tongue_Tied_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+			  {"name":"Marshmello"},
+			  {"name":"Yungblud"},
+			  {"name":"Blackbear"}
+			]
+		  },
+		  {
+			"title":"Tongue Tied (PatrickReza Remix)",
+			"release_year":2019,
+			"duration":"3:09",
+			"music_url":"/audios/Tongue_Tied_PatrickReza_Remix_2019.mp3",
+			"music_icon":"/playlists/icons/Tongue_Tied_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+			  {"name":"Marshmello"},
+			  {"name":"Yungblud"},
+			  {"name":"Blackbear"}
+			]
+		  },
+		  {
+			"title":"Tongue Tied (Duke & Jones Remix)",
+			"release_year":2019,
+			"duration":"3:02",
+			"music_url":"/audios/Tongue_Tied_Duke_Jones_Remix_2019.mp3",
+			"music_icon":"/playlists/icons/Tongue_Tied_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+			  {"name":"Marshmello"},
+			  {"name":"Yungblud"},
+			  {"name":"Blackbear"}
+			]
+		  },
+		  {
+			"title":"Tongue Tied (Near x Far Remix)",
+			"release_year":2019,
+			"duration":"3:10",
+			"music_url":"/audios/Tongue_Tied_Near_x_Far_Remix_2019.mp3",
+			"music_icon":"/playlists/icons/Tongue_Tied_Remixes.png",
+			"music_logo":"",
+			"has_album":0,
+			"album_name":"",
+			"album_img":"",
+			"artist":
+			[
+			  {"name":"Marshmello"},
+			  {"name":"Yungblud"},
+			  {"name":"Blackbear"}
+			]
+		  },
+		   {
 			 "title":"Tongue Tied",
 			 "release_year":2019,
 			 "duration":"3:06",
