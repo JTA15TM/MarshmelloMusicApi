@@ -1,0 +1,15 @@
+{
+	"domain":"https://github.com/JTA15TM/MarshmelloMusicApi/blob/main", "end":"?raw=true", "playlist":
+	{"items":
+		[
+            {
+                "playlist_title":"Tongue Tied Remixes", 
+                "playlist_icon":"/playlists/icons/Tongue_Tied_Remixes.png",
+                "audio":
+                [
+
+                ]
+            }
+        ]
+    }
+}
