@@ -9,7 +9,7 @@
       }, 
       {
          "lang":"en",
-         "description":"Fixing bugs with the search in the \"Music\" tab. When you play a track and exit the app, the bottom tile (music indicator) does not disappear. Elimination of small bugs."
+         "description":"Added a \"Playlists\" tab where you can listen to remixes. You can also add tracks you like to the \"Liked\" playlist. Improved optimization. Bug fixes."
       }
    ]
 }
