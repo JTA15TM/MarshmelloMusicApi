@@ -3,11 +3,202 @@
 	{"items":
 		[
             {
-                "joytime_title":"NEW ALBUM",
+                "joytime_title":"Shockwave",
                 "joytime_icon":"/albums/shockwave.jpg",
                 "locked":false,
                 "items":
-                []
+                [
+                  {
+                    "title":"Fairytale",
+                    "release_year":2021,
+                    "duration":"2:35",
+                    "music_url":"/audios/Fairytale_2021.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Shockwave",
+                    "album_img":"/albums/shockwave.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"}
+                    ]
+                  },
+                  {
+                    "title":"Supernovacane",
+                    "release_year":2021,
+                    "duration":"2:59",
+                    "music_url":"/audios/Supernovacane_2021.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Shockwave",
+                    "album_img":"/albums/shockwave.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"}
+                    ]
+                  },
+                  {
+                    "title":"Jiggle It",
+                    "release_year":2021,
+                    "duration":"2:50",
+                    "music_url":"/audios/Jiggle_It_2021.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Shockwave",
+                    "album_img":"/albums/shockwave.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"},
+                      {"name":"TroyBoi"}
+                    ]
+                  },
+                  {
+                    "title":"Back It Up",
+                    "release_year":2021,
+                    "duration":"2:40",
+                    "music_url":"/audios/Back_It_Up_2021.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Shockwave",
+                    "album_img":"/albums/shockwave.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"},
+                      {"name":"DJ Sliink"}
+                    ]
+                  },
+                  {
+                    "title":"VIBR8",
+                    "release_year":2021,
+                    "duration":"2:59",
+                    "music_url":"/audios/VIBR8_2021.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Shockwave",
+                    "album_img":"/albums/shockwave.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"}
+                    ]
+                  },
+                  {
+                    "title":"Bad Bitches",
+                    "release_year":2021,
+                    "duration":"2:32",
+                    "music_url":"/audios/Bad_Bitches_2021.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Shockwave",
+                    "album_img":"/albums/shockwave.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"},
+                      {"name":"Nitti Gritti"},
+                      {"name":"Megan Thee Stallion"}
+                    ]
+                  },
+                  {
+                    "title":"Back In Time",
+                    "release_year":2021,
+                    "duration":"2:40",
+                    "music_url":"/audios/Back_In_Time_2021.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Shockwave",
+                    "album_img":"/albums/shockwave.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"},
+                      {"name":"Carnage"}
+                    ]
+                  },
+                  {
+                    "title":"Hitta",
+                    "release_year":2021,
+                    "duration":"2:50",
+                    "music_url":"/audios/Hitta_2021.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Shockwave",
+                    "album_img":"/albums/shockwave.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"},
+                      {"name":"Carnage"},
+                      {"name":"Juicy J"}
+                    ]
+                  },
+                  {
+                    "title":"House Party",
+                    "release_year":2021,
+                    "duration":"3:25",
+                    "music_url":"/audios/House_Party_2021.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Shockwave",
+                    "album_img":"/albums/shockwave.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"},
+                      {"name":"Subtronics"}
+                    ]
+                  },
+                  {
+                    "title":"Candy Kid",
+                    "release_year":2021,
+                    "duration":"2:09",
+                    "music_url":"/audios/Candy_Kid_2021.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Shockwave",
+                    "album_img":"/albums/shockwave.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"},
+                      {"name":"Sippy"}
+                    ]
+                  },
+                  {
+                    "title":"Pushin Stacks",
+                    "release_year":2021,
+                    "duration":"3:34",
+                    "music_url":"/audios/Pushin_Stacks_2021.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Shockwave",
+                    "album_img":"/albums/shockwave.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"},
+                      {"name":"Peekaboo"}
+                    ]
+                  },
+                  {
+                    "title":"Shockwave",
+                    "release_year":2021,
+                    "duration":"3:34",
+                    "music_url":"/audios/Shockwave_2021.mp3",
+                    "music_icon":"",
+                    "music_logo":"",
+                    "has_album":1,
+                    "album_name":"Shockwave",
+                    "album_img":"/albums/shockwave.jpg",
+                    "artist":
+                    [
+                      {"name":"Marshmello"}
+                    ]
+                  }
+                ]
             },
 
             {
