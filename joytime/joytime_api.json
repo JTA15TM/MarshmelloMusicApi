@@ -3,9 +3,9 @@
 	{"items":
 		[
             {
-                "joytime_title":"JOYTIME 4 - Coming Soon", 
-                "joytime_icon":"",
-                "locked":true,
+                "joytime_title":"NEW ALBUM",
+                "joytime_icon":"/albums/shockwave.jpg",
+                "locked":false,
                 "items":
                 []
             },
