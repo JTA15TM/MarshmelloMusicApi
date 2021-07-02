@@ -6,11 +6,13 @@
       {
          "lang":"ru",
          "description":"Изменения дизайна уведомления.\nДобавлена тёмная тема.\nУстранена проблема при открытии плеера на Android 9 и выше.\nУстранение багов."
-      }, 
+      },
+      
       {
          "lang":"en",
          "description":"Changes to the notification design.\nAdded a dark theme.\nFixed an issue when opening the player on Android 9 and higher.\nFixing bugs."
       },
+
       {
          "lang":"es",
          "description":"Cambios de diseño de notificación.\nTema oscuro añadido.\nSe solucionó un problema al abrir el Reproductor en Android 9 y superior.\nEliminación de errores."
