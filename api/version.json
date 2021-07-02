@@ -1,13 +1,13 @@
 {
    "version":"4.0-release",
-   "close":false,
+   "close":true,
    "update_description":
    [
       {
          "lang":"ru",
          "description":"Изменения дизайна уведомления.\nДобавлена тёмная тема.\nУстранена проблема при открытии плеера на Android 9 и выше.\nУстранение багов."
       },
-      
+
       {
          "lang":"en",
          "description":"Changes to the notification design.\nAdded a dark theme.\nFixed an issue when opening the player on Android 9 and higher.\nFixing bugs."
