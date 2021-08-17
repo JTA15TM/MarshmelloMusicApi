@@ -1,21 +1,21 @@
 {
-   "version":"4.1-release",
+   "version":"4.3-release",
    "close":false,
    "update_description":
    [
       {
          "lang":"ru",
-         "description":"Изменения дизайна уведомления.\nДобавлена тёмная тема.\nУстранена проблема при открытии плеера на Android 9 и выше.\nУстранение багов."
+         "description":"1. Изменение дизайна\n2. Устранение сбоев\n3. Исправление багов\n4. Улучшенная оптимизация\n5. Новый дизайн плеера\n6. Размытие фона происходит быстрее и корректнее "
       },
 
       {
          "lang":"en",
-         "description":"Changes to the notification design.\nAdded a dark theme.\nFixed an issue when opening the player on Android 9 and higher.\nFixing bugs."
+         "description":"1. Changing the design\n2. Troubleshooting\n3. Bug fixes\n4. Improved optimization\n5. New player design\n6. Background blurring is faster and more correct"
       },
 
       {
          "lang":"es",
-         "description":"Cambios de diseño de notificación.\nTema oscuro añadido.\nSe solucionó un problema al abrir el Reproductor en Android 9 y superior.\nEliminación de errores."
+         "description":"1. Cambio de diseño\n2. Solución de problemas\n3. Corrección de errores\n4. Optimización mejorada\n5. Nuevo diseño de Reproductor\n6. El desenfoque de fondo es más rápido y más correcto"
       }
    ]
 }
