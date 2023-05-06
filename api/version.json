@@ -1,21 +1,21 @@
 {
-   "version":"4.4-release",
+   "version":"4.6-release",
    "close":false,
    "update_description":
    [
       {
          "lang":"ru",
-         "description":"1. Изменение дизайна\n2. Устранение сбоев\n3. Исправление багов\n4. Улучшенная оптимизация\n5. Новый дизайн плеера\n6. Размытие фона происходит быстрее и корректнее\n7. Добавлена возможность покупки отключения рекламы навсегда (Может выдавать ошибку)"
+         "description":"Работа над устранением неисправностей"
       },
 
-      {
-         "lang":"en",
-         "description":"1. Changing the design\n2. Troubleshooting\n3. Bug fixes\n4. Improved optimization\n5. New player design\n6. Background blurring is faster and more correct\n7. Added the ability to purchase disabling ads forever (May give an error)"
-      },
+    {
+      "lang": "en",
+      "description": "Troubleshooting work"
+    },
 
-      {
-         "lang":"es",
-         "description":"1. Cambio de diseño\n2. Solución de problemas\n3. Corrección de errores\n4. Optimización mejorada\n5. Nuevo diseño de Reproductor\n6. El desenfoque de fondo es más rápido y más correcto\n7. Añadida la opción de compra para desactivar los anuncios para siempre (Puede dar un error)"
-      }
+    {
+      "lang": "es",
+      "description": "Trabajar en la solución de problemas"
+    }
    ]
 }
